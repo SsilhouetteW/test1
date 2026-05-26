@@ -335,8 +335,8 @@ void ESP8266_STA_TCP_Client_Single ( void )
 
 void ESP8266_STA_TCP_Client_MQTT ( void )
 {
-    const char* ssid = "iPhone (8)";                
-    const char* password = "wxjywmmszg";        
+    const char* ssid = "***";                
+    const char* password = "******";        
     const char* server_ip = "broker.emqx.io"; 
     const char* server_port = "1883";        
     
